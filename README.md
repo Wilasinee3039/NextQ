@@ -43,6 +43,7 @@ Open app → Start do question in home page → do question → see result <br>
 2.1 รายละเอียดการพัฒนา | Development Details <br> 
 - React Native <br>
 - JavaScript <br>
+- React Navigation <br>
 
 2.2 ฟังก์ชันที่พัฒนา | Features Implemented <br> 
 
