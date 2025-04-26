@@ -8,7 +8,9 @@ Framework Used: React Native <br>
 GitHub Repository: 
 APK/IPA: https://expo.dev/accounts/wilasinee48/projects/Final3/builds/a1952228-3a7a-426a-8968-3d3eaf2ae506 <br>
 1. การออกแบบแอป | App Concept and Design (2 คะแนน / 2 pts) <br>
+
 1.1 ผู้ใช้งานเป้าหมาย | User Personas <br>
+
 Persona 1: <br>
 - Name: Nan <br>
 - Age: 18 <br>
@@ -37,6 +39,7 @@ Open app → Start do question in home page → do question → see result <br>
 
 
 2. การพัฒนาแอป | App Implementation (4 คะแนน / 4 pts) <br>
+
 2.1 รายละเอียดการพัฒนา | Development Details <br> 
 - React Native <br>
 - JavaScript <br>
@@ -52,6 +55,7 @@ Open app → Start do question in home page → do question → see result <br>
 [Mockup.pdf](https://github.com/user-attachments/files/19921476/Mockup.pdf) <br>
 
 3. การ Build และติดตั้งแอป | Deployment (2 คะแนน / 2 pts) <br>
+
 3.1 ประเภท Build | Build Type <br>
 - Debug <br>
 
@@ -62,6 +66,7 @@ Open app → Start do question in home page → do question → see result <br>
 - Install apk file <br>
 - Open on Android phone <br>
 - Install via File Manager <br>
+
 4. การสะท้อนผลลัพธ์ | Reflection (2 คะแนน / 2 pts) <br>
 - Found some problems in deployment <br>
 - Learned how to deploy in different ways <br>
@@ -70,6 +75,7 @@ Open app → Start do question in home page → do question → see result <br>
 - Add more career <br>
 
 5. การใช้ AI ช่วยพัฒนา | AI Assisted Development (Bonus / ใช้ประกอบการพิจารณา) <br>
+
 5.1 ใช้ AI ช่วยคิดไอเดีย | Idea Generation <br>
 - Prompt :  “Help name the app, related to the future questionnaire app” <br>
 - Result : “NextQ” <br>
@@ -83,6 +89,7 @@ App Name: NextQ <br>
 Description: Find a career based on character and aptitude <br>
 Target Users: Student <br>
 Model: Freemium + In-app purchases <br>
+
 5.4 ใช้ AI ช่วย debug | Debug Prompt <br>
 
 5.5 ใช้ AI ช่วย Deploy | Deployment Prompt <br>
