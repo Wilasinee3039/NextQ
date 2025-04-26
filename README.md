@@ -5,7 +5,7 @@ Full Name: Wilasinee Mangkorn <br>
 Student ID: 6631503039 <br>
 App Name: NextQ <br>
 Framework Used: React Native <br>
-GitHub Repository: 
+GitHub Repository: https://github.com/Wilasinee3039/NextQ.git <br>
 APK/IPA: https://expo.dev/accounts/wilasinee48/projects/Final3/builds/a1952228-3a7a-426a-8968-3d3eaf2ae506 <br>
 1. การออกแบบแอป | App Concept and Design (2 คะแนน / 2 pts) <br>
 
